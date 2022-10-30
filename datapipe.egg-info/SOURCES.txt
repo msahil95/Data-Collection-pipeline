@@ -1,0 +1,6 @@
+setup.py
+datapipe.egg-info/PKG-INFO
+datapipe.egg-info/SOURCES.txt
+datapipe.egg-info/dependency_links.txt
+datapipe.egg-info/requires.txt
+datapipe.egg-info/top_level.txt
